@@ -3,8 +3,13 @@
 ---
 
 Models live in src
+
 Data
-Util Scripts for any utility need
+
+Util scripts for any utility need
+- Validator scripts
+- CLI tools 
+- Etc.
 
 ---
 
