@@ -174,5 +174,4 @@ def plot_attention_weights(attention_weights):
     
     plt.show()
 
-# Assuming `attention_weights` is defined and has the correct shape
 plot_attention_weights(attention_weights)
