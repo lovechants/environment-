@@ -1,0 +1,114 @@
+
+
+BSuMM
+-----
+
+X: dealer inventory increase
+Influencers: ['dealer inventory increase', 'growth abroad continue']
+
+
+X: expansion aggregate demand
+Influencers: ['activity continue decline', 'note increase demand']
+
+
+X: home price remain
+Influencers: ['activity continue decline', 'home price remain']
+
+
+X: activity continue decline
+Influencers: ['activity continue decline', 'note increase demand']
+
+
+X: real estate activity
+Influencers: ['expansion aggregate demand', 'real estate activity']
+
+
+X: sale increase percent
+Influencers: ['activity continue decline']
+
+
+X: construction activity increase
+Influencers: ['vehicle sale robust']
+
+
+X: labor market remain
+Influencers: ['expansion aggregate demand', 'labor market remain']
+
+
+X: price manufacture goods
+Influencers: ['price increase modestly']
+
+
+X: note increase demand
+Influencers: ['expansion aggregate demand', 'real estate activity']
+
+
+X: growth abroad continue
+Influencers: ['note increase demand']
+
+
+X: vehicle sale robust
+Influencers: ['construction activity increase', 'expansion aggregate demand', 'vehicle sale robust']
+
+
+X: price increase modestly
+Influencers: ['activity continue decline', 'home price remain']
+
+
+
+
+
+OSuMM
+-----
+
+
+X: dealer inventory increase
+Influencers: ['dealer inventory increase', 'growth abroad continue', 'home price remain']
+
+
+X: expansion aggregate demand
+Influencers: ['note increase demand', 'price manufacture goods']
+
+
+X: home price remain
+Influencers: ['activity continue decline', 'home price remain', 'price manufacture goods']
+
+
+X: activity continue decline
+Influencers: ['activity continue decline', 'home price remain', 'labor market remain']
+
+
+X: real estate activity
+Influencers: ['home price remain', 'labor market remain', 'real estate activity']
+
+
+X: sale increase percent
+Influencers: ['activity continue decline']
+
+
+X: construction activity increase
+Influencers: ['vehicle sale robust']
+
+
+X: labor market remain
+Influencers: ['expansion aggregate demand']
+
+
+X: price manufacture goods
+Influencers: ['price increase modestly']
+
+
+X: note increase demand
+Influencers: ['dealer inventory increase', 'expansion aggregate demand']
+
+
+X: growth abroad continue
+Influencers: ['note increase demand']
+
+
+X: vehicle sale robust
+Influencers: ['expansion aggregate demand', 'vehicle sale robust']
+
+
+X: price increase modestly
+Influencers: ['activity continue decline', 'home price remain']
