@@ -6,8 +6,10 @@
 
 ## Files 
 
-`vis_util` - some visual utility 
+`vis_util` - some visual utility
+
 `model`    - where the model + layers are 
+
 `main`     - driver script
 
 ---
