@@ -174,3 +174,6 @@ pyrightconfig.json
 # Not going to allow to push to repo just yet, just use yazi if you want to render in the terminal or n^3 
 # On pull if you replicate it I'm "sure" images will be saved to the current working directory
 .png 
+
+# Random Util files 
+**/.pt
